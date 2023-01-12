@@ -1,0 +1,4 @@
+# Nmap 7.93 scan initiated Thu Jan 12 13:18:12 2023 as: nmap -sC -sV -p- -oN nmapscsvtcp -iL target.txt
+Unable to split netmask from target expression: "https://host-cyqnbjmp-prod.prod.cywar.xyz:49538"
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Thu Jan 12 13:18:12 2023 -- 0 IP addresses (0 hosts up) scanned in 0.74 seconds
